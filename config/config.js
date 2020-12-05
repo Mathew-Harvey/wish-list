@@ -20,7 +20,7 @@ module.exports = {
   'production': {
     'username': 'rb6a546b8caf36c',
     'password': '7c4a449c',
-    'database': 'database_production',
+    'database': 'wish_listdb',
     'host': 'us-cdbr-east-02.cleardb.com',
     'dialect': 'mysql'
   }
