@@ -18,10 +18,10 @@ module.exports = {
     'dialect': 'mysql'
   },
   'production': {
-    'username': 'root',
-    'password': '',
+    'username': 'rb6a546b8caf36c',
+    'password': '7c4a449c',
     'database': 'database_production',
-    'host': '127.0.0.1',
+    'host': 'us-cdbr-east-02.cleardb.com',
     'dialect': 'mysql'
   }
 };
